@@ -1,6 +1,5 @@
 
-```markdown
-# Background Changer Application 🌈
+## Background Changer Application 🌈
 
 An intuitive **Background Changer** app that changes the webpage's background color dynamically with the click of a button.
 
